@@ -1,0 +1,7 @@
+/target/classes/
+#target/docker-nb-sync-1.0-dev.jar
+#target/docker-nb-sync-1.0-dev.nbm
+/target/generated-sources/
+/target/maven-archiver/
+/target/nbm/
+/target/test-classes
