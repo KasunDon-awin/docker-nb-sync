@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Layer: com/kasundon/docker/nb/sync/layer.xml
+OpenIDE-Module-Localizing-Bundle: com/kasundon/docker/nb/sync/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.0.8

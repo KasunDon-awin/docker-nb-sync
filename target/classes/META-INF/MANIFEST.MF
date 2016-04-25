@@ -1,0 +1,95 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Layer: com/kasundon/docker/nb/sync/layer.xml
+OpenIDE-Module-Localizing-Bundle: com/kasundon/docker/nb/sync/Bundle.p
+ roperties
+OpenIDE-Module-Specification-Version: 0.0.8
+OpenIDE-Module-Implementation-Version: 1.0-dev
+OpenIDE-Module-Build-Version: 201604252328
+OpenIDE-Module: com.kasundon.docker.nb.sync
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: com.kasundon
+OpenIDE-Module-Name: docker-nb-sync
+OpenIDE-Module-Short-Description: Netbeans plugin to sync local file c
+ hanges to docker client
+OpenIDE-Module-Long-Description: Netbeans plugin to sync local file ch
+ anges to docker client
+X-Class-Path: ext/com.kasundon.docker-nb-sync/com-github-docker-java/d
+ ocker-java.jar ext/com.kasundon.docker-nb-sync/com-fasterxml-jackson-
+ jaxrs/jackson-jaxrs-json-provider.jar ext/com.kasundon.docker-nb-sync
+ /com-fasterxml-jackson-jaxrs/jackson-jaxrs-base.jar ext/com.kasundon.
+ docker-nb-sync/com-fasterxml-jackson-core/jackson-core.jar ext/com.ka
+ sundon.docker-nb-sync/com-fasterxml-jackson-core/jackson-databind.jar
+  ext/com.kasundon.docker-nb-sync/com-fasterxml-jackson-core/jackson-a
+ nnotations.jar ext/com.kasundon.docker-nb-sync/com-fasterxml-jackson-
+ module/jackson-module-jaxb-annotations.jar ext/com.kasundon.docker-nb
+ -sync/org-glassfish-jersey-connectors/jersey-apache-connector.jar ext
+ /com.kasundon.docker-nb-sync/org-glassfish-jersey-core/jersey-common.
+ jar ext/com.kasundon.docker-nb-sync/javax-annotation/javax.annotation
+ -api.jar ext/com.kasundon.docker-nb-sync/org-glassfish-jersey-bundles
+ -repackaged/jersey-guava.jar ext/com.kasundon.docker-nb-sync/org-glas
+ sfish-hk2/osgi-resource-locator.jar ext/com.kasundon.docker-nb-sync/j
+ avax-ws-rs/javax.ws.rs-api.jar ext/com.kasundon.docker-nb-sync/org-ap
+ ache-httpcomponents/httpclient.jar ext/com.kasundon.docker-nb-sync/or
+ g-apache-httpcomponents/httpcore.jar ext/com.kasundon.docker-nb-sync/
+ commons-logging/commons-logging.jar ext/com.kasundon.docker-nb-sync/o
+ rg-glassfish-jersey-core/jersey-client.jar ext/com.kasundon.docker-nb
+ -sync/org-glassfish-hk2/hk2-api.jar ext/com.kasundon.docker-nb-sync/o
+ rg-glassfish-hk2/hk2-utils.jar ext/com.kasundon.docker-nb-sync/org-gl
+ assfish-hk2-external/aopalliance-repackaged.jar ext/com.kasundon.dock
+ er-nb-sync/org-glassfish-hk2-external/javax.inject.jar ext/com.kasund
+ on.docker-nb-sync/org-glassfish-hk2/hk2-locator.jar ext/com.kasundon.
+ docker-nb-sync/org-javassist/javassist.jar ext/com.kasundon.docker-nb
+ -sync/de-gesellix/unix-socket-factory.jar ext/com.kasundon.docker-nb-
+ sync/org-apache-commons/commons-compress.jar ext/com.kasundon.docker-
+ nb-sync/org-tukaani/xz.jar ext/com.kasundon.docker-nb-sync/commons-co
+ dec/commons-codec.jar ext/com.kasundon.docker-nb-sync/commons-lang/co
+ mmons-lang.jar ext/com.kasundon.docker-nb-sync/commons-io/commons-io.
+ jar ext/com.kasundon.docker-nb-sync/org-slf4j/slf4j-api.jar ext/com.k
+ asundon.docker-nb-sync/org-slf4j/jcl-over-slf4j.jar ext/com.kasundon.
+ docker-nb-sync/com-google-guava/guava.jar ext/com.kasundon.docker-nb-
+ sync/org-bouncycastle/bcpkix-jdk15on.jar ext/com.kasundon.docker-nb-s
+ ync/org-bouncycastle/bcprov-jdk15on.jar ext/com.kasundon.docker-nb-sy
+ nc/io-netty/netty-codec-http.jar ext/com.kasundon.docker-nb-sync/io-n
+ etty/netty-codec.jar ext/com.kasundon.docker-nb-sync/io-netty/netty-h
+ andler.jar ext/com.kasundon.docker-nb-sync/io-netty/netty-buffer.jar 
+ ext/com.kasundon.docker-nb-sync/io-netty/netty-transport.jar ext/com.
+ kasundon.docker-nb-sync/io-netty/netty-resolver.jar ext/com.kasundon.
+ docker-nb-sync/io-netty/netty-handler-proxy.jar ext/com.kasundon.dock
+ er-nb-sync/io-netty/netty-codec-socks.jar ext/com.kasundon.docker-nb-
+ sync/io-netty/netty-transport-native-epoll-linux-x86_64.jar ext/com.k
+ asundon.docker-nb-sync/io-netty/netty-common.jar
+Maven-Class-Path: com.github.docker-java:docker-java:3.0.0-RC4 com.fas
+ terxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.6.4 com.fasterxml.
+ jackson.jaxrs:jackson-jaxrs-base:2.6.4 com.fasterxml.jackson.core:jac
+ kson-core:2.6.4 com.fasterxml.jackson.core:jackson-databind:2.6.4 com
+ .fasterxml.jackson.core:jackson-annotations:2.6.0 com.fasterxml.jacks
+ on.module:jackson-module-jaxb-annotations:2.6.4 org.glassfish.jersey.
+ connectors:jersey-apache-connector:2.11 org.glassfish.jersey.core:jer
+ sey-common:2.11 javax.annotation:javax.annotation-api:1.2 org.glassfi
+ sh.jersey.bundles.repackaged:jersey-guava:2.11 org.glassfish.hk2:osgi
+ -resource-locator:1.0.1 javax.ws.rs:javax.ws.rs-api:2.0 org.apache.ht
+ tpcomponents:httpclient:4.3.1 org.apache.httpcomponents:httpcore:4.3 
+ commons-logging:commons-logging:1.1.3 org.glassfish.jersey.core:jerse
+ y-client:2.11 org.glassfish.hk2:hk2-api:2.3.0-b05 org.glassfish.hk2:h
+ k2-utils:2.3.0-b05 org.glassfish.hk2.external:aopalliance-repackaged:
+ 2.3.0-b05 org.glassfish.hk2.external:javax.inject:2.3.0-b05 org.glass
+ fish.hk2:hk2-locator:2.3.0-b05 org.javassist:javassist:3.18.1-GA de.g
+ esellix:unix-socket-factory:2015-01-27T15-02-14 org.apache.commons:co
+ mmons-compress:1.5 org.tukaani:xz:1.2 commons-codec:commons-codec:1.8
+  commons-lang:commons-lang:2.6 commons-io:commons-io:2.3 org.slf4j:sl
+ f4j-api:1.7.5 org.slf4j:jcl-over-slf4j:1.7.12 com.google.guava:guava:
+ 18.0 org.bouncycastle:bcpkix-jdk15on:1.51 org.bouncycastle:bcprov-jdk
+ 15on:1.51 io.netty:netty-codec-http:4.1.0.CR3 io.netty:netty-codec:4.
+ 1.0.CR3 io.netty:netty-handler:4.1.0.CR3 io.netty:netty-buffer:4.1.0.
+ CR3 io.netty:netty-transport:4.1.0.CR3 io.netty:netty-resolver:4.1.0.
+ CR3 io.netty:netty-handler-proxy:4.1.0.CR3 io.netty:netty-codec-socks
+ :4.1.0.CR3 io.netty:netty-transport-native-epoll:4.1.0.CR3:linux-x86_
+ 64 io.netty:netty-common:4.1.0.CR3
+OpenIDE-Module-Module-Dependencies: org.netbeans.modules.projectapi/1 
+ > 1.60.2, org.openide.awt > 7.62.1, org.openide.loaders > 7.57.2, org
+ .netbeans.modules.projectuiapi/1 > 1.78.1.8, org.openide.filesystems 
+ > 8.12.1, org.openide.modules > 7.43.1, org.openide.util > 8.39.1, or
+ g.openide.util.lookup > 8.25.1, org.openide.windows > 6.71.1, org.net
+ beans.modules.autoupdate.services > 1.47.2
+

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="File">
+            <file name="com-kasundon-docker-nb-sync-ContextAction.instance">
+                <!--com.kasundon.docker.nb.sync.ContextAction-->
+                <attr
+                    bundlevalue="com.kasundon.docker.nb.sync.Bundle#DockerSyncOption" name="displayName"/>
+                <attr methodvalue="org.openide.awt.Actions.context" name="instanceCreate"/>
+                <attr name="type" stringvalue="org.openide.loaders.DataObject"/>
+                <attr methodvalue="org.openide.awt.Actions.inject" name="delegate"/>
+                <attr name="injectable" stringvalue="com.kasundon.docker.nb.sync.ContextAction"/>
+                <attr name="selectionType" stringvalue="EXACTLY_ONE"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Loaders">
+        <folder name="folder">
+            <folder name="any">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="image">
+            <folder name="png-gif-jpeg-bmp">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="content">
+            <folder name="unknown">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="text">
+            <folder name="html">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="x-css">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="sh">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="x-jsp">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="x-java">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="x-jsp-servlet">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="x-tag">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="x-sql">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="x-php5">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="x-properties">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="XML">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="xml-xml-xsl">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="xml-external-parsed-entity">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="*">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="javascript">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="application">
+            <folder name="x-class-file">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="x-java-archive">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="xml">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="xml-dtd">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="xml-external-parsed-entity">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="x-xml">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="xhtml+xml">
+                <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                    <!--com.kasundon.docker.nb.sync.ContextAction-->
+                    <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                    <attr intvalue="750" name="position"/>
+                </file>
+            </folder>
+            <folder name="pdf">
+                <folder name="Actions">
+                    <file name="com-kasundon-docker-nb-sync-ContextAction.shadow">
+                        <!--com.kasundon.docker.nb.sync.ContextAction-->
+                        <attr name="originalFile" stringvalue="Actions/File/com-kasundon-docker-nb-sync-ContextAction.instance"/>
+                        <attr intvalue="750" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Projects">
+        <folder name="org-netbeans-modules-php-project">
+            <folder name="Customizer">
+                <file name="com-kasundon-docker-nb-sync-PanelController-createMyDemoConfigurationTab.instance">
+                    <!--com.kasundon.docker.nb.sync.PanelController.createMyDemoConfigurationTab()-->
+                    <attr
+                        methodvalue="com.kasundon.docker.nb.sync.PanelController.createMyDemoConfigurationTab" name="instanceCreate"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>
