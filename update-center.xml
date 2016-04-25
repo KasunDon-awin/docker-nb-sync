@@ -1,1 +1,33 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.3//EN" "http://www.netbeans.org/dtds/autoupdate-catalog-2_3.dtd">
+<module_updates timestamp="00/30/00/26/04/2016">
+    <module_group name="Utilities">
+        <module codenamebase="com.kasundon.docker.nb.sync" distribution="https://github.com/KasunDon-awin/docker-nb-sync-plugin/raw/57d9d8b93c8fd2c8182ba4ba0e529830a88e79da/target/docker-nb-sync-1.0-dev.nbm" downloadsize="18975" homepage="https://github.com/KasunDon-awin/docker-nb-sync-plugin" license="MIT" moduleauthor="Kasun Don" needsrestart="true" releasedate="2016/04/26">
+            <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="com.kasundon.docker.nb.sync" OpenIDE-Module-Display-Category="Utilities" OpenIDE-Module-Implementation-Version="2" OpenIDE-Module-Java-Dependencies="Java &gt; 1.7" OpenIDE-Module-Specification-Version="0.0.6"/>
+            <license name="MIT">
+                The MIT License (MIT)
+
+                Copyright (c) 2016 Kasun Don
+
+                Permission is hereby granted, free of charge, to any person obtaining a copy
+                of this software and associated documentation files (the "Software"), to deal
+                in the Software without restriction, including without limitation the rights
+                to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                copies of the Software, and to permit persons to whom the Software is
+                furnished to do so, subject to the following conditions:
+
+                The above copyright notice and this permission notice shall be included in all
+                copies or substantial portions of the Software.
+
+                THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+                SOFTWARE.
+            </license>
+        </module>
+    </module_group>
+</module_updates>
