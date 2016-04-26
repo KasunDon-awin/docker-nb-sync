@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.3//EN" "http://www.netbeans.org/dtds/autoupdate-catalog-2_3.dtd">
+<module_updates timestamp="54/37/08/26/04/2016">
+
+
+
+<module codenamebase="com.kasundon.docker.nb.sync" distribution="docker-nb-sync-1.0-dev.nbm" downloadsize="13940841" license="52D4AB00" needsrestart="false" releasedate="2016/04/26">
+    <manifest OpenIDE-Module="com.kasundon.docker.nb.sync" OpenIDE-Module-Display-Category="Utilities" OpenIDE-Module-Implementation-Version="1.0-dev" OpenIDE-Module-Long-Description="Netbeans plugin to sync local file changes to docker client" OpenIDE-Module-Module-Dependencies="org.netbeans.modules.projectapi/1 &gt; 1.60.2, org.openide.awt &gt; 7.62.1, org.openide.loaders &gt; 7.57.2, org.netbeans.modules.projectuiapi/1 &gt; 1.78.1.8, org.openide.filesystems &gt; 8.12.1, org.openide.modules &gt; 7.43.1, org.openide.util &gt; 8.39.1, org.openide.util.lookup &gt; 8.25.1, org.openide.windows &gt; 6.71.1, org.netbeans.modules.autoupdate.services &gt; 1.47.2" OpenIDE-Module-Name="DockerSync" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Netbeans plugin to sync local changes to docker containers" OpenIDE-Module-Specification-Version="0.0.8"/>
+    
+</module>
+
+<license name="52D4AB00">Copyright  2016
+-----------------------------------------------------
+License terms:
+Unknown</license>
+</module_updates>
+
